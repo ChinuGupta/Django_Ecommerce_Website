@@ -1,0 +1,16 @@
+.btn-color {
+  background-color: #00CC98 !important; 
+}
+.custom-input:focus {
+  border-color: #878988 !important; 
+  box-shadow: 0 0 5px rgba(148, 151, 149, 0.5) !important;
+  outline: none;
+}
+
+.custom-input-checkbutton:focus,
+.custom-input-checkbutton:active {
+    background-color: #00CC98 !important; 
+    border-color: #37884a !important; 
+    box-shadow: 0 0 5px rgba(40, 167, 69, 0.5) !important;
+    outline: none;
+}
